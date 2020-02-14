@@ -68,19 +68,16 @@
         <nav class="site-navigation position-relative text-right" role="navigation">
           <ul class="site-menu main-menu js-clone-nav mr-auto d-none pl-0 d-lg-block">
             <li class="active">
-              <a href="index.html" class="nav-link text-left">Accueil</a>
+              <a href="#/" class="nav-link text-left">Accueil</a>
             </li>
             <li>
-              <a href="about.html" class="nav-link text-left">L'Entreprise</a>
+              <a href="#/entreprise" class="nav-link text-left">L'Entreprise</a>
             </li>
             <li>
-              <a href="services.html" class="nav-link text-left">Nos Solutions</a>
+              <a href="#/solutions" class="nav-link text-left">Nos Solutions</a>
             </li>
             <li>
-                <a href="testimonials.html" class="nav-link text-left">CCTP</a>
-            </li>
-            <li>
-                <a href="contact.html" class="nav-link text-left">Contact</a>
+                <a href="#/contact" class="nav-link text-left">Contact</a>
               </li>
           </ul> 
         </nav>
@@ -118,5 +115,4 @@
       </div>
     </div>
   </div>
-
 </div>
