@@ -2,21 +2,21 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 form-group">
-                <label for="fname">First Name</label>
+                <label for="fname">Votre Prénom</label>
                 <input type="text" id="fname" class="form-control form-control-lg">
             </div>
             <div class="col-md-6 form-group">
-                <label for="lname">Last Name</label>
+                <label for="lname">Votre Nom</label>
                 <input type="text" id="lname" class="form-control form-control-lg">
             </div>
         </div>
         <div class="row">
             <div class="col-md-6 form-group">
-                <label for="eaddress">Email Address</label>
+                <label for="eaddress">Adresse e-mail</label>
                 <input type="text" id="eaddress" class="form-control form-control-lg">
             </div>
             <div class="col-md-6 form-group">
-                <label for="tel">Tel. Number</label>
+                <label for="tel">Numéro de Tel.</label>
                 <input type="text" id="tel" class="form-control form-control-lg">
             </div>
         </div>
@@ -29,32 +29,20 @@
 
         <div class="row">
             <div class="col-12">
-                <input type="submit" value="Send Message" class="btn btn-primary rounded-0 px-3 px-5">
+                <input type="submit" value="Envoyer" class="btn btn-success rounded-0 px-3 px-5">
             </div>
         </div>
     </div>
 </div>
 
-<div class="section-bg style-1" style="background-image: url('images/slide2.jpg');">
+<div class="site-section bg-image overlay" style="background-image: url('images/bois1.jpg');">
     <div class="container">
-        <div class="row">
-        <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
-            <span class="icon flaticon-mortarboard"></span>
-            <h3>Our Philosphy</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis recusandae, iure repellat quis delectus ea? Dolore, amet reprehenderit.</p>
+      <div class="row justify-content-center">
+        <div class="col-md-7 text-center">
+          <h2 class="text-white">PRODUIRE DURABLEMENT</h2>
+          <p class="lead text-white">MADERA c'est l'assurance de consommer moins de l'energie avec une construction confortable et respectueuse de l'environnement.</p>
+          <p class="mb-0"><a href="#" class="btn btn-success py-3 px-5 text-white">Nous connaître</a></p>
         </div>
-        <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
-            <span class="icon flaticon-school-material"></span>
-            <h3>Academics Principle</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis recusandae, iure repellat quis delectus ea?
-            Dolore, amet reprehenderit.</p>
-        </div>
-        <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
-            <span class="icon flaticon-library"></span>
-            <h3>Key of Success</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis recusandae, iure repellat quis delectus ea?
-            Dolore, amet reprehenderit.</p>
-        </div>
-        </div>
+      </div>
     </div>
-    </div>
+  </div>
